@@ -7,6 +7,10 @@ public class Main {
         System.out.printf("Hello and welcome!");
 
         String[] imiona = {"Piotr", "Anna", "Jan", "Leszek"};
+        for (int i = 0; i < imiona.length; i++)
+
+System.out.println(i + 1 + ". " + imiona[i]);
+
         }
     }
 }
