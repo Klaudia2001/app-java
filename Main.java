@@ -13,4 +13,4 @@ System.out.println(i + 1 + ". " + imiona[i]);
 
         }
     }
-}
+
